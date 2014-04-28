@@ -1,4 +1,4 @@
 ember-validations-shim
 ======================
 
-Shim repository for ember-validations.
+Shim repository for [dockyard/ember-validations](https://github.com/dockyard/ember-validations).

@@ -1,0 +1,10 @@
+{
+  "name": "ember-validations-shim",
+  "description": "Shim repository for dockyard/ember-validations.",
+  "version": "1.0.0-beta.2",
+  "keywords": [
+    "ember",
+    "validation"
+  ],
+  "homepage": "https://github.com/dockyard/ember-validations"
+}
